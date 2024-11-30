@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'RAG'
-copyright = '2024, GIIADS, CNN by Maalouf IMAD '
+copyright = 'Afifi asmae '
 author = 'imad maalouf'
 
 # -- General configuration ---------------------------------------------------
