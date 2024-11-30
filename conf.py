@@ -8,7 +8,7 @@
 
 project = 'RAG'
 copyright = 'Afifi asmae '
-author = 'imad maalouf'
+author = 'Afifi asmae'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
