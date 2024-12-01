@@ -23,7 +23,7 @@ Installation Steps
 .. code-block:: bash
 
    # Clone repository
-   git clone https://github.com/yourusername/document-chat-assistant.git
+   git clone https://github.com/Asmae00010/rag-application.git
 
    # Create virtual environment
    python -m venv venv

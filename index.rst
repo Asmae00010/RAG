@@ -1,7 +1,7 @@
 Welcome to Document Chat Assistant's Documentation
 ==================================================
 
-Document Chat Assistant is an intelligent document processing and querying application built with Streamlit and Ollama.
+Document Chat Assistant is an intelligent document processing and querying application built with Streamlit and Ollama utilizing RAG (Retrieval-Augmented Generation) and open-source AI models.
 
 .. toctree::
    :maxdepth: 2

@@ -10,7 +10,7 @@ Tested Models
 - Llama2
 - Mistral
 - CodeLlama
-- Aya Expanse
+- Aya Expanse (For arabic inference and retrieval)
 
 Model Selection
 ---------------

@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'RAG'
-copyright = 'Afifi asmae '
+copyright = 'Afifi asmae'
 author = 'Afifi asmae'
 
 # -- General configuration ---------------------------------------------------
